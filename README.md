@@ -4,7 +4,7 @@
 
 - macOS Ventrua
 - IntelliJ IDEA
-- - Java 17
+- Java 17
 
 ### ⚙️ 사용 기술
 
